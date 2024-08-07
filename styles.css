@@ -1,0 +1,12 @@
+body {
+    background-color: #121212; /* Dark mode background color */
+    color: #ffffff; /* Text color for better visibility */
+}
+
+h1 {
+    color: #ff8c00; /* Heading color */
+}
+
+p {
+    color: #00ff00; /* Paragraph color */
+}
