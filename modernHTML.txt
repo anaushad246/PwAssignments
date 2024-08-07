@@ -1,0 +1,48 @@
+Features of HTML5
+Enhanced Multimedia Support: Native support for audio and video elements.
+New Semantic Elements: Elements like <article>, <section>, <header>, <footer>, and <nav> to define different parts of a webpage.
+Form Enhancements: New input types like date, email, url, and attributes like placeholder, required, and autofocus.
+Canvas Element: Allows for rendering graphics and animations using JavaScript.
+Offline Capabilities: Using the applicationCache interface, web applications can work offline.
+Geolocation API: Allows web applications to access geographic location information.
+Local Storage: Provides a way to store data on the client-side persistently.
+Drag and Drop: Native support for drag-and-drop functionality.
+What are HTML5 Entities?
+HTML entities are used to display reserved characters or characters that have special meanings in HTML. They ensure that these characters are rendered correctly in the browser. Here are five commonly used HTML5 entities:
+
+& - Ampersand (&)
+< - Less than (<)
+> - Greater than (>)
+" - Double quotation mark (")
+' - Single quotation mark (')
+What is Web Accessibility?
+Web accessibility refers to the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites by people with disabilities. When sites are correctly designed, developed, and edited, all users have equal access to information and functionality.
+
+Assistive Devices for Web Accessibility
+Screen Readers: Software that reads the text displayed on a screen aloud for users with visual impairments (e.g., JAWS, NVDA).
+Screen Magnifiers: Tools that enlarge the content on a screen for users with low vision.
+Braille Displays: Devices that convert on-screen text to braille.
+Speech Recognition Software: Allows users to control their computers with voice commands.
+Alternative Input Devices: Such as sip-and-puff systems, and head pointers.
+Ways to Improve Web Accessibility
+Use Semantic HTML: Properly using HTML tags like <header>, <footer>, <nav>, and <main> to define the structure of the content.
+Provide Text Alternatives: For non-text content like images, videos, and audio, use alt text, captions, and transcripts.
+Ensure Keyboard Navigability: Make sure all functionality is accessible via keyboard shortcuts.
+Short Note on the Tab Index
+The tabindex attribute specifies the tab order of an element (when the "Tab" key is used for navigation). It can take several values:
+
+tabindex="0": The element is focusable and participates in sequential keyboard navigation.
+tabindex="-1": The element is focusable but does not participate in sequential keyboard navigation.
+tabindex="1" (or any positive number): Sets the tab order explicitly, with lower numbers getting focus first.
+List of 5 Semantic HTML5 Tags and Their Descriptions
+<header>: Represents introductory content or a set of navigational links.
+<nav>: Contains the navigation links for the site.
+<article>: Represents a self-contained composition in a document, page, or site.
+<section>: Defines a section in a document.
+<footer>: Represents the footer of a section or page, containing information about the section's author, copyright data, or links to related documents.
+Benefits of Using Semantic Tags in Webpages
+Improved Accessibility: Screen readers and other assistive technologies can better understand and navigate the content.
+Better SEO: Search engines can more easily interpret the content, leading to better search rankings.
+Enhanced Readability: Code is more readable and easier to maintain for developers.
+Consistent Styling: Semantic tags provide a clear structure, making it easier to apply consistent styling across similar elements.
+Future-Proofing: Using semantic tags ensures compatibility with future web technologies and standards.
